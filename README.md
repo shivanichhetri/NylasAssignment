@@ -142,10 +142,10 @@ After
         
 </td></table>
 
-<h3>Follow the instructions listed in the body of each of the messages.</h3>
+<h3>6. Follow the instructions listed in the body of each of the messages.</h3>
 Instruction mentioned were
 
-1. Make a request to the Nylas API that marks every message in this thread as "read" and be sure to include all requests and responses made.
+a. Make a request to the Nylas API that marks every message in this thread as "read" and be sure to include all requests and responses made.
 
 <table><td>
         
@@ -197,7 +197,7 @@ After
   
 </td></table>
 
-2. Reply to the sender of this message with your favorite snack in the body.
+b. Reply to the sender of this message with your favorite snack in the body.
 
 <table><td>
         
